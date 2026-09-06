@@ -1,0 +1,7 @@
+{
+  "type": "equirectangular",
+  "panorama": "https://example.com/panorama/myphoto.jpg",
+  "autoLoad": true,
+  "showControls": true,
+  "compass": true
+}
